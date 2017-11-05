@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509805132 source:c:\users\peanutt\desktop\info\battle ship game\main.cpp
+	<bits/stdc++.h>
+	<ctime>
+
